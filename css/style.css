@@ -6,7 +6,7 @@
 
 body {
 	background-color: white;
-	background-image: url(../img/bg.jpg);
+	background-image: url(../img/blue.jpg);
 	background-position: left top;
 	background-repeat: repeat;
 	-webkit-font-smoothing: antialiased;
@@ -31,7 +31,7 @@ a:hover {
   width: 90%;
   max-width: 1250px;
   overflow: hidden;
-  border: 6px solid #eaeaea;
+  border: 6px solid #e0ffff;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -373,7 +373,7 @@ float:left;
 
 
 .first .square {
-    width: 200px;
+    width: 250px;
     height: 200px;
     border: 15px solid white;
     position: absolute;
@@ -381,7 +381,9 @@ float:left;
     right: 41px;
     z-index: 1;
 }
-
+.text-center{
+	text-align: center;
+}
 
 
 
