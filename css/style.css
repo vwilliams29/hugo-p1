@@ -422,7 +422,7 @@ float:left;
 
 
 /* ----------------------------------------------------
-	 Services page styles
+	 My-Work page styles
 ------------------------------------------------------- */
 
 
@@ -433,7 +433,7 @@ float:left;
 .margin-services p {
 	font-size: 1.1em;
     font-family: 'Oxygen', sans-serif;
-	color: #e74c3c;
+	color: #3ccbe7;
 	line-height: 1.7em;
 	margin-top: 14px;
 	margin-bottom: 20px;
@@ -760,8 +760,11 @@ figure.effect-moses:hover img {
 
 
 /*---------------------------------------------------
-	Resume page styles
+	Education page styles
 ---------------------------------------------------*/
+.education-image {
+float:right;
+}
 
 .margin-resume {
 	margin-top: 40px;
@@ -777,7 +780,7 @@ figure.effect-moses:hover img {
 }
 
 .desc .e-heading {
-    color: #e74c3c;
+    color: #3ccbe7;
 	font-weight: 400;
 	text-transform: none;
 	font-size: 1em;
