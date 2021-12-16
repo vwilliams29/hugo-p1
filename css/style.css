@@ -297,7 +297,7 @@ h4 {
 }
 
 .home-btn {
-	color: #898989;
+	color: #3ccbe7;
 	background-color: transparent;
     border: 2px solid #dadada;
 }
@@ -404,6 +404,7 @@ float:left;
     border-top: 1px solid #dddddd;
     border-bottom: 1px solid #dddddd;
 	margin-top: 68px;
+
 }
 
 .photo-about {
@@ -418,6 +419,7 @@ float:left;
 	font-weight: 400;
 	text-transform: uppercase;
     color: #4f4d47;
+
 }
 
 
@@ -917,7 +919,7 @@ h5 .date {
 	width: 100px;
 	float: left;
 	margin-left: 116px;
-	color: #898989;
+	color: #3ccbe7;
 	background-color: transparent;
     border: 2px solid #dadada;
 }
@@ -929,7 +931,7 @@ label {
 	width: 100px;
 	padding-top: 5px;
 	font-size: 1em;
-	color: #4f4d47;
+	color: #3ccbe7;
 }
 
 h6 {
